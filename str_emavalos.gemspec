@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Emmy Avalos"]
   spec.email         = ["emmyavalos415@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because RubyGems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = " "
+  spec.summary       = "Learning about gems"
+  spec.description   = "Learning how to publish a gem"
+  spec.homepage      = "https://github.com/emmyavalos/str_emavalos"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
